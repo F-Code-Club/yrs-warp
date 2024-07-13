@@ -1284,9 +1284,9 @@ checksum = "32b752e52a2da0ddfbdbcc6fceadfeede4c939ed16d13e648833a61dfb611ed8"
 
 [[package]]
 name = "yrs"
-version = "0.18.2"
+version = "0.18.8"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "a4058d69bbbc97181d53d9d093a4b892001b84601f2fc4e27f48c8862bc8b369"
+checksum = "da227d69095141c331d9b60c11496d0a3c6505cd9f8e200898b197219e8e394f"
 dependencies = [
  "arc-swap",
  "atomic_refcell",
@@ -1300,7 +1300,7 @@ dependencies = [
 
 [[package]]
 name = "yrs-warp"
-version = "0.8.0"
+version = "0.8.1"
 dependencies = [
  "bytes",
  "futures-util",
